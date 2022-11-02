@@ -31,7 +31,7 @@ These are the correct results for the test files included in this repo.
 | `test3b.txt`| `-1`            | `[]`          | `0.0000s`           | `0.0000s`        |
 | `test4.txt` | `3`             | `[12,7]`      | `0.0000s`           | `0.0000s`        |
 | `test5.txt` | `6`             | `[2,77]`      | `0.0000s`           | `0.0000s`        |
-| `test6.txt` | `9903`          | `[ab,cd,ef]`  |`8.9431s`            | `0.8771s`        |
+| `test6.txt` | `9903`          | `[ab,cd,ef]`  | 8.9431s            | `0.8771s`        |
 | `test7.txt` | `29941`         | `[is,this,answer,the,correct]`  |`191.7872s`    | `8.0726s`        |
 
 
