@@ -14,8 +14,8 @@ $ ./deadlock < test1.txt
 
 ## IMPORTANT
 
-Only modify and submit the `find_deadlock.cpp` file. Your TAs will
-supply their own versions of the other files (such as main.cpp) to
+Only modify and submit the `find_deadlock.cpp` file! Your code will
+be marked with different versions of the other files (such as main.cpp) to
 compile and test your code.
 
 ## Test files
