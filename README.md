@@ -1,4 +1,4 @@
-**WARNING:** Do not upload any files in this repository to public websites. If you want to clone this repository, please make sure to keep it private.
+# A4.pdf Question 1 gives the specifics of this assignment
 
 # deadlock detection - skeleton for Assignment 4
 
